@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../PycharmProjects/Algorithms and data structures/.idea/AlgorithmTasks.iml" filepath="$PROJECT_DIR$/../PycharmProjects/Algorithms and data structures/.idea/AlgorithmTasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PycharmProjects/MultiThreads/.idea/MultiThreads.iml" filepath="$PROJECT_DIR$/../PycharmProjects/MultiThreads/.idea/MultiThreads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PycharmProjects/OOP shit/.idea/OOP projects.iml" filepath="$PROJECT_DIR$/../PycharmProjects/OOP shit/.idea/OOP projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Portfolio_Projects.iml" filepath="$PROJECT_DIR$/.idea/Portfolio_Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PycharmProjects/buildings/.idea/buildings.iml" filepath="$PROJECT_DIR$/../PycharmProjects/buildings/.idea/buildings.iml" />
+    </modules>
+  </component>
+</project>
